@@ -21,3 +21,6 @@ Para la ejecucion (si se quiere realizar) de este punto tan  solo se requiere ab
 
 Esto lo que nos devolvera es un array con los numeros de 1 hasta el que es ingresado por parametro a la funcion.
 NOTA: si se quiere probar con varios numero cambiar el valor de la variable paramNumber.
+
+# modelado_punto_4.sql
+Este archivo es el SQL de la creacion del modelado de bases de datos. En el documento PDF se encuentra el modelado grafico.
